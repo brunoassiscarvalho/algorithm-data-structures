@@ -18,4 +18,4 @@ export function union(id: number[], p: number, q: number): void {
   }
 }
 
-// Example usage:
+
